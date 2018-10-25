@@ -1,2 +1,1 @@
-# README
-Read Me First
+Please visit [React Storefront](https://github.com/moovweb/react-storefront)
